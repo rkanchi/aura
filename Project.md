@@ -22,6 +22,12 @@
   - [x] Final R2 storage layout & CDN cache configuration
   - [x] Asset state machine & error handling / DLQ strategy
   - [x] Cost model & throughput targets per stage
+- [x] Media ingestion whitepaper — platform-agnostic reference (whitepaper_media_ingestion_pipeline.md)
+  - [x] Part I: Foundations — why ingestion is hard, universal pipeline anatomy, 10 design principles
+  - [x] Part II: 9-stage deep dives with decision matrices, failure modes, best practices & anti-patterns
+  - [x] Part III: Cross-cutting — asset state machine, cost modeling, PM decision checklist, observability, team topology
+  - [x] Platform archetype mapping (Pinterest, YouTube, E-Commerce, Digital Art, Enterprise DAM, News Media)
+  - [x] Glossary of 30+ industry terms
 
 ## Phase 2: Project Setup
 - [ ] Initialize Go project with module structure
